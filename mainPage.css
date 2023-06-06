@@ -1,0 +1,39 @@
+.background {
+    background-color: #F0FFFF;
+}
+
+ul.ulStyle {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+.headerDiv {
+    display: inline-flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: green;
+}
+
+.alignment {
+    margin: 15px !important;
+}
+
+.imgStyle {
+    height: 5em;
+    width: 25em;
+    margin-right: 25px;
+    margin-left: 65px;
+}
